@@ -1,0 +1,13 @@
+
+	<head>
+		<title>O meni</title>
+	</head>
+	<body>
+		Ovo je stranica o meni...
+		<a href="index.html">POČETNA</a>
+		<br></br>
+		<a href="kontakt.html">KONTAKT</a>
+
+
+	</body>
+</html>
