@@ -2,16 +2,12 @@ body
 {
     background-image: url('whgwhfwufwji.jpg');
 }
-p
-{
-    font-family: aaaaa;
-    font-size: 12px;
-}
+
 p.citat
 {
     font-style: italic;
     font size: 11px;
-    border: 1px solid #000;
+    border: solid #000;
     background-color: #fff000;
 }
 p.drugi
@@ -19,6 +15,12 @@ p.drugi
     font-color: #b22222;
     text-align: center;
     text-decoration: underline;
+    border-width: thin;
+    border-style: solid;
+    border-left-color: #ffffff;
+    bottom-color: #ffffff;
+    border-right-color: #000000;
+    border-top-color: #000000;
 }
 p.treci
 {
