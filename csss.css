@@ -13,12 +13,12 @@ p.citat
 p.drugi
 {
     font-color: #b22222;
-    text-align: center;
+    text-align: right;
     text-decoration: underline;
-    border-width: thin;
-    border-style: solid;
-    border-left-color: #ffffff;
-    bottom-color: #ffffff;
+    border-width: thick;
+    border-style: inset;
+    border-left-color: green;
+    bottom-color: green;
     border-right-color: #000000;
     border-top-color: #000000;
 }
