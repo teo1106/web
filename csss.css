@@ -17,10 +17,10 @@ p.drugi
     text-decoration: underline;
     border-width: thick;
     border-style: inset;
-    border-left-color: green;
-    bottom-color: green;
-    border-right-color: #000000;
-    border-top-color: #000000;
+    border-left-color: #008000;
+    bottom-color: #008000;
+    border-right-color: #008000;
+    border-top-color: #008000;
 }
 p.treci
 {
